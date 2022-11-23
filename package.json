@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.9.11",
     "rxjs": "~6.5.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^2.3.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
@@ -39,7 +39,7 @@
     "codelyzer": "^5.1.2",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
-    "karma": "~5.0.0",
+    "karma": "~5.0.9",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage-istanbul-reporter": "~2.1.0",
     "karma-jasmine": "~3.0.1",
